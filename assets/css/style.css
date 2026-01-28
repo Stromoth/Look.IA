@@ -294,6 +294,7 @@ textarea {
   height: auto;
   border: 1px solid #8c4f4f;
   border-radius: 8px;
+  padding: 0.5%;
 }
 
 .conteudo-centralizado {
